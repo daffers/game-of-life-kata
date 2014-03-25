@@ -1,9 +1,5 @@
-﻿using System;
-using System.CodeDom;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.Remoting;
-using System.Text;
 using NUnit.Framework;
 
 namespace GameOfLife
